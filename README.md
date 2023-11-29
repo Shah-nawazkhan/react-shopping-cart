@@ -9,7 +9,6 @@
 
 <p align="left">
 
-  <img src="./work-in-the-netherlands.png" width="380" height="90">
 </p>
 
 
@@ -21,13 +20,7 @@ This simple shopping cart prototype shows how React with Typescript, React hooks
 - Filter products by available sizes using Context Api
 - Responsive design
 
-<!--
-## Getting started
 
-Try playing with the code on CodeSandbox :)
-
-[![Edit app](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/74rykw70qq)
- -->
 
 ## Build/Run
 
